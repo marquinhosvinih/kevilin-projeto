@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Kevilin 💖</title>
+
+  <!-- Estilos -->
+  <style>
+    body {
+      background: linear-gradient(to right, #ffe0ec, #ffffff);
+      text-align: center;
+      font-family: Arial, sans-serif;
+      padding: 50px;
+    }
+
+    h1 {
+      color: #d63384;
+      font-size: 36px;
+      margin-bottom: 20px;
+    }
+
+    img {
+      width: 200px;
+      height: 200px;
+      object-fit: cover;
+      border-radius: 50%;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+      margin-bottom: 20px;
+    }
+
+    p {
+      color: #555;
+      font-size: 20px;
+      margin: 10px 0;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Título -->
+  <h1>💖 Kevilin 💖</h1>
+
+  <!-- Foto -->
+  <img src="foto.kv.jpg" alt="Foto da Kevilin">
+
+  <!-- Mensagens -->
+ <p>Sei que hoje não está sendo fácil, mas quero que saiba que você não está sozinha.</p>
+<p>Seu sorriso tem o poder de acalmar até os dias mais difíceis.</p>
+<p>Estou aqui, torcendo para que seu coração se sinta mais leve logo.</p>
+
+
+</body>
+</html>
